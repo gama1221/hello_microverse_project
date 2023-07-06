@@ -29,7 +29,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 > In this project, you will set up a "Hello world" repository. No complex coding is required for this exercise. Your goal here is to master all of the tools and best practices you learned about in previous steps. You will be using them in all Microverse projects and most likely in your future job as well, so it is important to know them! You will also get your first code review. This is also a process that will be used in all Microverse projects.
 
@@ -141,13 +141,13 @@ I would like to thank to Microverse having such opportunity
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 > Add at least 2 questions new developers would ask when they decide to use your project.
 
-- **[How to setup a project with linter i.e. css linter]**
+- **How to setup a project with linter i.e. css linter**
 
-  - [This project can have the answer]
+  - This project can have the answer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
