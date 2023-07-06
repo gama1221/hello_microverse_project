@@ -76,7 +76,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 > Install text editor such as VsCode.
-> Install git
+> Install git.
 
 <!--
 Example command:
