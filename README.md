@@ -57,9 +57,9 @@
 
 > This project contains three simple files such as hello.html, hello.css and test.md files. It demonstrates how to setup a linter in css and html.
 
-- **[HTML]**
-- **[CSS]**
-- **[Linter configuration]**
+- **HTML**
+- **CSS**
+- **Linter configuration**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
