@@ -20,6 +20,9 @@
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
@@ -48,7 +51,25 @@
   </ul>
 </details>
 
+## 🔭 Future Features <a name="future-features"></a>
 <!-- Features -->
+- **Add dynamic features**
+- **Add forms**
+- **Add more CSS**
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project, click star and fork it.
 
 ### Key Features <a name="key-features"></a>
 
