@@ -1,9 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Hello Microverse</b></h3>
 
@@ -121,13 +118,9 @@ To run and see errors in this project, execute the following command:
 
 👤 **Author**
 
-- GitHub: [@gama1221](https://www.linkedin.com/in/gama1221/)
+- GitHub: [@gama1221](https://www.github.com/gama1221/)
 - Twitter: [@tgetinetamare](https://twitter.com/tgetinetamare)
 - LinkedIn: [@getinet-mekonnen](https://www.linkedin.com/in/getinet-mekonnen/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,8 +135,6 @@ I would like to thank to Microverse having such opportunity
 <!-- FAQ (optional) -->
 
 ## ❓ FAQ <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **How to setup a project with linter i.e. css linter**
 
